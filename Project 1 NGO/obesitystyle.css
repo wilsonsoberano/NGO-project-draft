@@ -1,0 +1,18 @@
+obesitystyle.css
+
+/* Apply background color to the whole page */ 
+body { 
+background-color: palevioletred
+font-family: 'Times New Roman', Times, serif; 
+} 
+/* Make all paragraphs black */ 
+p { 
+color: rgb(71, 102, 125); 
+font-size: 25px; 
+} 
+/* Make the main heading white */ 
+h1 { 
+color: rgb(195, 76, 76); 
+text-align: center; 
+} 
+
